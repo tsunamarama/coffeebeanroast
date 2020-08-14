@@ -28,6 +28,28 @@ footer {
 	background-color: BlanchedAlmond;
 }
 
+#id1 {
+    width: 15%;
+}
+
+#id2 {
+    width: 61%;
+}
+
+#id3 {
+    width: 24%;
+    text-align: center;
+}
+
+#id4 {
+    width: 80%;
+}
+
+#id5 {
+    width: 20%;
+    text-align: left;
+}
+
 #fullpage { 
     background: #8c7165;
     color: white;
